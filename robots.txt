@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-laaj5k.kujang138btc.space/sitemap.xml
